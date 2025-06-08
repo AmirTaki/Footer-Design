@@ -82,3 +82,15 @@ form input {
     border: 0;
     outline: none;
 }
+
+form button {
+    background: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+form button  .bi-arrow-right{
+    font-size: 16px;
+    color : #ccc;
+}

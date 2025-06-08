@@ -37,3 +37,9 @@ footer {
 .logo {
     width: 80px; 
 }
+
+.col h3 {
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}

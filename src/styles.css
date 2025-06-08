@@ -68,5 +68,17 @@ form{
     justify-content: space-between;
     border-bottom: 1px solid #ccc;
     margin-bottom: 50px;
+}
 
+form .bi-envelope{
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+form input {
+    width: 100%;
+    background: transparent;
+    color : #ccc;
+    border: 0;
+    outline: none;
 }

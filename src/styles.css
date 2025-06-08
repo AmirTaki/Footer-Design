@@ -94,3 +94,16 @@ form button  .bi-arrow-right{
     font-size: 16px;
     color : #ccc;
 }
+
+.social-icons .bi{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40ox;
+    font-size: 20px;
+    background-color : transparent;
+    margin-right: 15px;
+    cursor: pointer;
+
+}

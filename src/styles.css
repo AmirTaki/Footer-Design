@@ -60,3 +60,13 @@ ul li a {
     cursor: pointer;
     color : #fff
 }
+
+form{
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+
+}
